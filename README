@@ -8,7 +8,7 @@ The AI Interview Preparation Platform is a web-based application that helps stud
 
 Problem Statement
 
-Many students and job seekers struggle to perform well in interviews due to lack of practice, confidence, and personalized guidance. Traditional interview preparation methods do not provide real-time feedback or simulate actual interview environments effectively. There is a need for an intelligent platform that can conduct mock interviews, evaluate answers, and provide personalized recommendations to help candidates improve their communication, technical knowledge, and interview performance.Technologies Used
+Many students and job seekers struggle to perform well in interviews due to lack of practice, confidence, and personalized guidance. Traditional interview preparation methods do not provide real-time feedback or simulate actual interview environments effectively. There is a need for an intelligent platform that can conduct mock interviews, evaluate answers, and provide personalized recommendations to help candidates improve their communication, technical knowledge, and interview performance.
 
 Technologies
 Frontend: HTML, CSS, JavaScript, React
